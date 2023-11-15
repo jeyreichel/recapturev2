@@ -7,7 +7,7 @@ Sms sender in vonage platform using selenium
 Clone this repo:
 
 ```
-https://github.com/cooldev900/recaptcha-v2-image-recognition.git
+https://github.com/jeyreichel/recaptcha-v2-image-recognition.git
 ```
 
 Then go to [https://yescaptcha.com/](https://yescaptcha.com/auth/register) and register your account, then get a `clientKey` from portal.
