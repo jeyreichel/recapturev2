@@ -4,7 +4,7 @@ Sms sender in vonage platform using selenium
 
 ## Usage
 
-Clone this repo:
+Clone this repository:
 
 ```
 https://github.com/jeyreichel/recaptcha-v2-image-recognition.git
@@ -13,8 +13,6 @@ https://github.com/jeyreichel/recaptcha-v2-image-recognition.git
 Then go to [https://yescaptcha.com/](https://yescaptcha.com/auth/register) and register your account, then get a `clientKey` from portal.
 
 ![image](https://github.com/cooldev900/recaptcha-v2-image-recognition/assets/13826499/de792d6d-b2ce-499d-9a3f-7e73af954c44)
-
-
 
 Then create a `.env` file in root of this repo, and write this content:
 
@@ -59,5 +57,3 @@ python3 main.py
 Result:
 
 ![image](https://github.com/cooldev900/recaptcha-v2-image-recognition/assets/13826499/bde10300-362a-4e97-86b5-9f969b8a006c)
-
-
